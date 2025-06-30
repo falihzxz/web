@@ -98,7 +98,7 @@ export default function Index() {
             {/* Logo */}
             <div className="flex-shrink-0">
               <img
-                src="https://cdn.builder.io/api/v1/image/assets/TEMP/596df3ee79885db78622058f538ed89fc354aa84?width=380"
+                src="C:\Users\Asus\Downloads\logoRAF.jpg"
                 alt="RAF Auto Gallery Logo"
                 className="w-[190px] h-[71px] rounded-[5px]"
               />
